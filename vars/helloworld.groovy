@@ -1,1 +1,4 @@
-"def call() { echo 'Hello World from Shared Library!' }" 
+def call() {
+    echo "Hello from Shared Library!"
+}
+
